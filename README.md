@@ -121,3 +121,19 @@ The goal was to create a **luxury digital experience**, not just a functional st
 
 ```text
 https://carennedesigns.com
+
+## 🔐 Source Code Access
+
+The full source code for Carenne is private due to active development and business considerations.
+
+If you’re a recruiter, hiring manager, or collaborator and would like to review the codebase, you can request access below:
+
+👉 **Request Access:**  
+mailto:paulwamaria@gmail.com?subject=Carenne%20Source%20Code%20Request&body=Hi%20Paul,%0A%0AI'd%20like%20to%20request%20access%20to%20the%20Carenne%20repository.%0A%0AName:%0ACompany:%0APurpose:%0A%0AThanks!
+
+---
+
+I can also provide:
+- A guided walkthrough of the architecture
+- Screenshare demo of the codebase
+- Technical discussion on design decisions
